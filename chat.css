@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.box-container {
+    background-color: #323f4b;
+    text-align: center;
+
+
+}
+
+.heading-container {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: Roboto;
+    padding: 10px;
+
+}
+
+.incoming-message {
+    background-color: #47a3f3;
+    border-radius: 8px;
+    text-align: right;
+    margin-bottom: 15px;
+}
+
+.outgoing-message {
+    background-color: #52606d;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.message {
+    font-family: Roboto;
+    color: white;
+    font-size: 15px;
+    padding: 13px;
+}
+
+.margin-mark {
+    margin-bottom: 30px;
+}
+
+.message-container {
+    padding: 20px;
+}
